@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games{"gta5"}
 
-author ".zeusx#0001"
+author ".zeusx#2743"
 description "FiveM Blackout Watch Dogs"
 
 server_script {

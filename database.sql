@@ -1,0 +1,2 @@
+CREATE TABLE `essentialmode`.`blackout` ( `enabled` INT(2) NOT NULL DEFAULT '0' ) ENGINE = InnoDB;
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES ('blackout', 'Blackout', '-1', '0', '1');
